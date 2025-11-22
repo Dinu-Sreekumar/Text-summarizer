@@ -2,7 +2,16 @@
 
 A simple yet powerful text summarization application built with [Streamlit](https://streamlit.io/) and Google's [Gemini 2.5 Flash](https://deepmind.google/technologies/gemini/) model.
 
+
+## Demo
+
+
+<video src="assets/demo.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+
 ## Features
+
 - **Text Summarization**: Paste any text to get a concise summary.
 - **Customizable Settings**: Adjust summary length (Short, Medium, Long) and creativity (Temperature).
 - **Modern UI**: Clean and responsive interface.
