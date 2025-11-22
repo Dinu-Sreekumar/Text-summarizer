@@ -6,7 +6,7 @@ A simple yet powerful text summarization application built with [Streamlit](http
 ## Demo
 
 
-<video src="assets/demo.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/Dinu-Sreekumar/Text-summarizer/raw/main/assets/demo.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 
