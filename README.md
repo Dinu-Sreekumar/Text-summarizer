@@ -2,6 +2,9 @@
 
 A simple yet powerful text summarization application built with [Streamlit](https://streamlit.io/) and Google's [Gemini 2.5 Flash](https://deepmind.google/technologies/gemini/) model.
 
+![Gemini Text Summarizer Hero](assets/hero_screenshot.png)
+
+
 
 ## Demo
 
